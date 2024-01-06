@@ -33,7 +33,7 @@ ___
 ## You can find me on:
 
 <aside>
-<a href="https://radical-rose-e39.notion.site/Suhyun-Cho-7ed97bc2a4b444abbd44cb6a0cf085dc?pvs=4" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=plastic&logo=notion&logoColor=white"> 
+<a href="https://radical-rose-e39.notion.site/Suhyun-Cho-7ed97bc2a4b444abbd44cb6a0cf085dc?pvs=4" target="_blank"><img src="https://img.shields.io/badge/portfolio-000000?style=plastic&logo=notion&logoColor=white"> 
 
 </aside>
 
