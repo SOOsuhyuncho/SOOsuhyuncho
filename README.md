@@ -33,12 +33,12 @@ ___
 ## You can find me on:
 
 <aside>
-<a href="https://radical-rose-e39.notion.site/Suhyun-Cho-7ed97bc2a4b444abbd44cb6a0cf085dc?pvs=4" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> 
+<a href="https://radical-rose-e39.notion.site/Suhyun-Cho-7ed97bc2a4b444abbd44cb6a0cf085dc?pvs=4" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=plastic&logo=notion&logoColor=white"> 
 
 </aside>
 
 <aside>
-<a href="http://instagram.com/suyhnu" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> 
+<a href="http://instagram.com/suyhnu" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=plastic&logo=instagram&logoColor=white"> 
 </aside>
 
 <aside>
